@@ -1,1 +1,1 @@
-# basic-Java-tread
+# basic-Java-Thread
